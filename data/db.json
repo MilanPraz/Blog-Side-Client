@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "MilanPraz",
+      "likes": 2,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    },
+    {
+      "id": 2,
+      "username": "Kiran",
+      "likes": 5,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    },
+    {
+      "id": 3,
+      "username": "Hero12",
+      "likes": 8,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    },
+    {
+      "id": 4,
+      "username": "Phantom",
+      "likes": 100,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    },
+    {
+      "id": 5,
+      "likes": 600,
+      "username": "Dr.Strange",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    },
+    {
+      "id": 6,
+      "likes": 20,
+      "username": "Captain America",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi harum consequuntur impedit nemo ipsum quas earum, odit nostrum exercitationem repellat debitis in ea, non corporis ab minus similique corrupti ducimus? Temporibus, minima! Sed totam sapiente ipsam magni, modi numquam veritatis! Doloribus sunt laboriosam vero, id aperiam ex alias, veniam culpa, explicabo dicta rem minima pariatur veritatis numquam facilis tenetur!"
+    }
+  ]
+}
+
+// npx json-server -p 8000 -w data/db.json
